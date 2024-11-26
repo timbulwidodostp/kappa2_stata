@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'kappa2': Generalizations of weighted kappa for incomplete designs Use kappa2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f kappa2.ado
+f kappa2.dlg
+f kappa2.sthlp
+f kappaaux.ado
