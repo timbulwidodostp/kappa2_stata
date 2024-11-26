@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p kappa2 Generalizations of weighted kappa for incomplete designs Use kappa2 With STATA 18
