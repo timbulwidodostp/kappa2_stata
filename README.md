@@ -1,6 +1,8 @@
 # kappa2_stata
 Generalizations of weighted kappa for incomplete designs Use kappa2 With STATA 18
 
+https://www.youtube.com/watch?v=Yxwd0slaZao
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
